@@ -1,0 +1,25 @@
+{
+  "name": "svift-analysis-module",
+  "version": "1.0.0",
+  "description": "statistical analysis of datasets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svift-org/analysis-module.git"
+  },
+  "author": "Sebastian Meier @seb_meier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svift-org/analysis-module/issues"
+  },
+  "homepage": "https://github.com/svift-org/analysis-module#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}

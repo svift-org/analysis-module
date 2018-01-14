@@ -1,0 +1,10 @@
+{
+  "data":
+    [
+      {"label":"Line 1","data":[4]},
+      {"label":"Line 2","data":[2]},
+      {"label":"Line 3","data":[5]}
+    ]
+  ,
+  "labels":[]
+}
